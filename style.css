@@ -11,7 +11,14 @@
 }
 
 html {
-  background: var(--night);
+  background-color: var(--night);
+  background-image:
+    linear-gradient(rgba(14, 18, 28, 0.35), rgba(14, 18, 28, 0.55)),
+    url("images/night_threads_bg.jpg");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  min-height: 100%;
 }
 
 body {
@@ -20,7 +27,7 @@ body {
   padding: 0 1.25rem 3rem;
   font: 18px/1.65 Georgia, "Palatino Linotype", Palatino, "Times New Roman", serif;
   color: var(--text);
-  background: var(--night);
+  background: transparent;
 }
 
 h1, h2 {
