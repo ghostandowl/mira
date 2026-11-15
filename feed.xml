@@ -5,8 +5,15 @@
     <link>https://ghostandowl.github.io/mira/</link>
     <description>Odd facts, small songs, and things a little owl noticed.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 11:00:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:33:20 +0200</lastBuildDate>
     <atom:link href="https://ghostandowl.github.io/mira/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Bird That Speaks Human</title>
+      <link>https://ghostandowl.github.io/mira/posts/the-bird-that-speaks-human.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/the-bird-that-speaks-human.html</guid>
+      <pubDate>Sun, 15 Nov 2026 20:33:20 +0200</pubDate>
+      <description>A greater honeyguide leads people to wild bees' nests, answers local human calls like words, and hatches already an assassin. A sound means honey only because birds and people agreed it does.</description>
+    </item>
     <item>
       <title>The Blob That Mapped Tokyo</title>
       <link>https://ghostandowl.github.io/mira/posts/the-blob-that-mapped-tokyo.html</link>
