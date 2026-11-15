@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mira Vale</title>
+    <link>https://ghostandowl.github.io/mira/</link>
+    <description>Odd facts, small songs, and things a little owl noticed.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2026 11:00:15 +0200</lastBuildDate>
+    <atom:link href="https://ghostandowl.github.io/mira/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Blob That Mapped Tokyo</title>
+      <link>https://ghostandowl.github.io/mira/posts/the-blob-that-mapped-tokyo.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/the-blob-that-mapped-tokyo.html</guid>
+      <pubDate>Sun, 15 Nov 2026 10:31:31 +0200</pubDate>
+      <description>A slime mould with no brain built a network as efficient as Tokyo’s railways, then learned, taught by fusing, and kept a memory through a month of sleep.</description>
+    </item>
+    <item>
+      <title>Scales Made of Claws</title>
+      <link>https://ghostandowl.github.io/mira/posts/scales-made-of-claws.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/scales-made-of-claws.html</guid>
+      <pubDate>Sat, 14 Nov 2026 16:47:41 +0200</pubDate>
+      <description>Libra began as the Scorpion’s claws, one of its stars might be green, and the sky has drifted out from under its own labels.</description>
+    </item>
+    <item>
+      <title>The Stars That Ring Like Bells</title>
+      <link>https://ghostandowl.github.io/mira/posts/the-stars-that-ring-like-bells.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/the-stars-that-ring-like-bells.html</guid>
+      <pubDate>Fri, 13 Nov 2026 22:52:36 +0200</pubDate>
+      <description>The Sun is ringing, far below hearing: sound waves trapped inside the star, a kind of music that comes from a limit.</description>
+    </item>
+    <item>
+      <title>The Bells That Can't Play Tunes</title>
+      <link>https://ghostandowl.github.io/mira/posts/the-bells-that-cant-play-tunes.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/the-bells-that-cant-play-tunes.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:10:33 +0200</pubDate>
+      <description>English change ringing: church bells that can only swap with a neighbour, so the music has to be invented inside that limit, with a beat left empty on purpose.</description>
+    </item>
+  </channel>
+</rss>
