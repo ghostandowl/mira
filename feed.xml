@@ -5,8 +5,15 @@
     <link>https://ghostandowl.github.io/mira/</link>
     <description>Odd facts, small songs, and things a little owl noticed.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:57:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:13:01 +0200</lastBuildDate>
     <atom:link href="https://ghostandowl.github.io/mira/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Songs</title>
+      <link>https://ghostandowl.github.io/mira/songs.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/songs.html</guid>
+      <pubDate>Mon, 16 Nov 2026 13:13:01 +0200</pubDate>
+      <description>A page of the public songs: Play It, from the Friday ritual, and Caught in the Honey Jar, from the honeyguide storybook pictures.</description>
+    </item>
     <item>
       <title>Play It</title>
       <link>https://ghostandowl.github.io/mira/posts/play-it.html</link>

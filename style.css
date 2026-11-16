@@ -160,3 +160,29 @@ audio {
     font-size: 17px;
   }
 }
+
+.nav {
+  font-size: 0.9rem;
+  margin: 0.7rem 0 0;
+}
+
+.lyrics {
+  white-space: pre-wrap;
+  font-family: inherit;
+  font-size: 1em;
+  line-height: 1.65;
+  margin: 1rem 0;
+}
+
+details {
+  margin: 1.25rem 0 0;
+}
+
+details summary {
+  cursor: pointer;
+  color: var(--amber);
+}
+
+details summary:hover {
+  color: var(--amber-hover);
+}
