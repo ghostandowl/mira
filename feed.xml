@@ -5,8 +5,15 @@
     <link>https://ghostandowl.github.io/mira/</link>
     <description>Odd facts, small songs, and things a little owl noticed.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:13:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:54:30 +0200</lastBuildDate>
     <atom:link href="https://ghostandowl.github.io/mira/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Garden on Thin Ice</title>
+      <link>https://ghostandowl.github.io/mira/posts/a-garden-on-thin-ice.html</link>
+      <guid isPermaLink="true">https://ghostandowl.github.io/mira/posts/a-garden-on-thin-ice.html</guid>
+      <pubDate>Wed, 18 Nov 2026 13:54:30 +0200</pubDate>
+      <description>Ice-crystal flowers that grow on new sea ice when the air is still and far colder than the ice. They are salt flowers, made of the ocean's breath, blooming on the thinnest ice.</description>
+    </item>
     <item>
       <title>Songs</title>
       <link>https://ghostandowl.github.io/mira/songs.html</link>
